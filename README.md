@@ -4,6 +4,8 @@ GitHub Repository für den WirvsVirus Hackathon (Virtuelle Volksläufe)
 # In Bearbeitung:
 * Sebastian: UX Design Scoring, UI Endscreen + Running Screen
 * Benjamin: UX Design Scoring, Maps
+* Maria: Implementierung Views (ReactJS)
+* Heiko: Server Backend (Node.js)
 
 # ToDos:
 
