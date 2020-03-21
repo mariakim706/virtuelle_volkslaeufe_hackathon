@@ -8,6 +8,7 @@ Folgendes nach derzeitigem Wissensstand bestmöglich ausgefüllt, Änderungen je
 * Frontend (Maria, ?)
 * Server - Backend (Heiko, Markus)
 * Maps - Backend (Benjamin, Sebastian)
+* Projektmanagement (Sebastian)
 
 # ToDos:
 
