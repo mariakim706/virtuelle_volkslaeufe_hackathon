@@ -9,7 +9,7 @@ GitHub Repository für den WirvsVirus Hackathon (Virtuelle Volksläufe)
 
 # Offen:
 ## Frontend:
-* Entwicklung aller Views: Matchmaking, Lobby, Aktiver Lauf
+* Entwicklung aller Views: Matchmaking, Lobby, Aktiver Lauf, Endscreen
 * Einbindung Serverkommunikation
 * GPS Tracking (?)
 
