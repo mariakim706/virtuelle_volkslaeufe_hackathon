@@ -9,5 +9,5 @@ Lokale Badgeverwaltung in der App aus den Daten eingegebenen Userdanten und Date
 
 ## Audio notifications
 - Im style "Sebie hat dich überholt"
-- Text-to-Audio Lösung...?
+- Text-to-Audio (Stichwort Text to Speech - https://www.npmjs.com/package/react-native-tts) Lösung...?
 - Optional abschaltbar
