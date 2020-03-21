@@ -5,7 +5,7 @@ GitHub Repository für den WirvsVirus Hackathon (Virtuelle Volksläufe)
 * Sebastian: UX Design Scoring, UI Endscreen + Running Screen
 * Benjamin: UX Design Scoring, Maps
 * Maria: Implementierung Views (ReactJS)
-* Heiko, Bebop, Matthias: Server Backend (Node.js)
+* Heiko, Bebop, Matthias, Markus: Server Backend (Node.js)
 * Markus: Badges
 
 # ToDos:
